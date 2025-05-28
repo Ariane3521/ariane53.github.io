@@ -20,14 +20,14 @@ const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
 
 export const creators: Creator[] = [
   {
-    name: 'name',
+    name: 'Ariane',
     avatar: 'avatar',
     username: 'username',
     title: 'title',
-    desc: 'desc',
+    desc: 'comm',
     links: [
       { type: 'github', icon: 'github', link: 'link' },
-      { type: 'twitter', icon: 'twitter', link: 'link' },
+      { type: 'twitter', icon: 'twitter', link: 'https://x.com/nonpolar10' },
     ],
     nameAliases: ['aliases'],
     emailAliases: ['aliases'],
