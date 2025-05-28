@@ -1,10 +1,8 @@
 ---
 layout: home
 sidebar: false
-
 title: 边界的宽度
-titleTemplate: 记录回忆，知识和畅想的地方
-
+titleTemplate: title template
 hero:
   name: title
   text: text
@@ -15,11 +13,10 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /笔记/index
+      link: /笔记/index.md
     - theme: theme
       text: text
       link: link
-
 features:
   - title: ……
     details: …………
